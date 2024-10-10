@@ -1,6 +1,15 @@
 # Queue Management System
 
+Вакансия
+
+https://proscom.notion.site/Senior-Backend-Node-js-Proscom-1d8f966aaef14605bc706c585f328230?pvs=4
+
+Тестовое задание
+
+https://drive.google.com/file/d/1M66GqJI_DrrW1BGof--WmzhDC1WzdsE1/view?usp=sharing
+
 Демонстрация работы
+
 https://www.loom.com/share/0ea4030bff504acbace45b78829f499c
 
 ## Описание
